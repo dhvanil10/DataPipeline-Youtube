@@ -1,16 +1,10 @@
-<p align='center'>
-<img src='https://github.com/waqarg2001/Youtube-Data-Pipeline-AWS/blob/main/assets/Icon.png' width=430 height=270 >
-</p>
+
 
 ---
 
 <h4 align='center'> Leveraging <a href='https://aws.amazon.com/' target='_blank'>AWS Cloud Services,</a> an ETL pipeline transforms YouTube video statistics data. Data is downloaded from <a href='https://kaggle.com/datasnaek/youtube-new'>Kaggle</a>, uploaded to an S3 bucket, and cataloged using AWS Glue for querying with Athena. AWS Lambda converts to Parquet format and stores it in a clean S3 bucket. AWS QuickSight then visualizes the materialised data, providing insights into YouTube video performance. </h4>
 
-<p align='center'>
-<img src="https://i.ibb.co/KxfMMsP/built-with-love.png" alt="built-with-love" border="0">
-<img src="https://i.ibb.co/MBDK1Pk/powered-by-coffee.png" alt="powered-by-coffee" border="0">
-<img src="https://i.ibb.co/CtGqhQH/cc-nc-sa.png" alt="cc-nc-sa" border="0">
-</p>
+
 
 <p align="center">
   <a href="#overview">Overview</a> •
